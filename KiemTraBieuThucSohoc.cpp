@@ -21,7 +21,7 @@ int main() {
                 st.pop();
             }
         }
-        if (check) cout << "YES"; else cout <<"NO";
+        if (check) cout << "Yes"; else cout <<"No";
         cout << endl;
     }
 }
