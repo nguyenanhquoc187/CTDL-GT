@@ -1,1 +1,2 @@
-# Luyện tập cấu trúc dữ liệu và giải thuật
+# CTDL-GT
+Luyện tập cấu trúc dữ liệu và giải thuật
